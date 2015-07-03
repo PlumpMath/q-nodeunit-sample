@@ -1,0 +1,38 @@
+{
+  "name": "q-nodeunit-sample",
+  "version": "0.1.0",
+  "description": "Samples for testing with Q and nodeunit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/golbin/q-nodeunit-sample.git"
+  },
+  "author": "Jin Kim",
+  "license": "MIT",
+  "dependencies": {
+    "q": "",    
+    "nodeunit": ""
+  },
+  "devDependencies": {
+    "grunt": "",
+    "grunt-contrib-nodeunit": "",
+    "grunt-contrib-jshint": ""
+  },
+  "bugs": {
+    "url": "https://github.com/golbin/q-nodeunit-sample/issues"
+  },
+  "homepage": "https://github.com/golbin/q-nodeunit-sample",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "keywords": [
+    "q",
+    "nodeunit",
+    "promise",
+    "test",
+    "sample"
+  ]
+}
